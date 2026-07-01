@@ -1,5 +1,4 @@
-aiogram==3.20.0.post0
+aiogram==3.13.1
 yt-dlp
-python-dotenv
 aiohttp
-aiofiles
+python-dotenv
